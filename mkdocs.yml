@@ -1,0 +1,8 @@
+site_name: "Voice Project"
+site_description: "Voice Project"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
